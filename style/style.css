@@ -58,9 +58,24 @@ li button{
     gap: 300px;
     border-radius: 15px;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.08);
-    margin:0px 50px 20px;
-    padding-top: 20px;
+    margin:0px 50px 10px;
+    padding-top: 10px;
     
     
-    
+      
+}
+
+.inspiration-title{
+    text-align: center;
+}
+
+.inspiration-video{
+    border: 2px solid whitesmoke;
+    border-radius: 15px;
+    text-align: center;
+    margin:0px 50px 10px;
+}
+
+iframe{
+    border-radius: 15px;
 }
