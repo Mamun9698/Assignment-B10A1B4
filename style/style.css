@@ -142,4 +142,37 @@ iframe{
     padding-top: 15px;
 }
 
+.feedback{
+    text-align: center;
+    background: url(../assets/handshake.jpg);
+    border-radius: 15px;
+    margin:0px 50px 20px;
+    padding-bottom: 60px;
+    
+    
+    
+    
+}
 
+.sup-feedback{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    
+    
+}
+button{
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px; 
+    font-weight: 700;
+    
+    
+}
+
+input{
+    width: 500px;
+    border-radius: 5px;
+    padding: 10px;
+    border-color: none;
+}
