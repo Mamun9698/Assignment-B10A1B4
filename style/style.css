@@ -31,7 +31,7 @@ li button{
 }
 
 .heading{
- background-image: url(./assets/Hero-bg.png);  
+ background-image: url(../assets/Hero-bg.png);  
 }
 
 .work-description,.future-developer,.btn,.picture{
@@ -146,7 +146,7 @@ iframe{
 
 .feedback{
     text-align: center;
-    background: url(./assets/handshake.jpg);
+    background: url(../assets/handshake.jpg);
     background-position: center;
     border-radius: 15px;
     padding: 100px;
