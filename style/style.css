@@ -97,8 +97,8 @@ iframe{
 
 .skill{
     padding: 30px;
-    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
-    border-radius: 20px;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.05);
+    
     
 }
 
@@ -113,3 +113,33 @@ iframe{
 .js-color{
     background-color: antiquewhite;
 }
+
+.html-color,.css-color,.js-color,.skill{
+    border-radius: 20px;
+}
+
+
+.target-skill{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    border-radius: 15px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.05);
+    margin:0px 50px 20px;
+    padding: 15px;
+    height: 150px;
+   
+}
+.target-next{
+    text-align: center;
+    margin-top: 15px;
+}
+/* shared style */
+.target-titl{
+    font-weight: 700;
+}
+.learn-more{
+    padding-top: 15px;
+}
+
+
